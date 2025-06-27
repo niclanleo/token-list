@@ -3,6 +3,13 @@
   "logoUri": "https://assets.coingecko.com/coins/images/26433/standard/starknet.png",
   "tokens": [
     {
+      "name": "ONLY EIGHT USERS",
+      "address": "0x00e33356072418951fdf3312e3e2eef99abf6d7e12df6ff956082d3e178dde2a",
+      "symbol": "8",
+      "decimals": 18,
+      "logoUri": "https://i.ibb.co/L6pwNzw/IMG-2587.jpg"
+    },
+    {
     "name": "Ubit Bit Token",
     "address": "0x03ccf029fec1564d78441e3909e1426d6f865cac32346b7c59a01eb111b8e1d7",
     "symbol": "UBIT",
