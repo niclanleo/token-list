@@ -2,12 +2,12 @@
   "name": "Starknet Token List",
   "logoUri": "https://assets.coingecko.com/coins/images/26433/standard/starknet.png",
   "tokens": [
-    {
-      "name": "ONLY EIGHT USERS",
-      "address": "0x00e33356072418951fdf3312e3e2eef99abf6d7e12df6ff956082d3e178dde2a",
-      "symbol": "8",
+     {
+      "address": "0x051ce72bf5c9705761a313bf7d5b8a7bd350d156aca6dbf5ada2119782964351",
+      "name": "Zero Proof Coin",
+      "symbol": "ZPC",
       "decimals": 18,
-      "logoUri": "https://i.ibb.co/L6pwNzw/IMG-2587.jpg"
+      "logo_uri": "https://github.com/niclanleo/zpcoin/blob/main/metadata/logos/mainnet/0x051ce72bf5c9705761a313bf7d5b8a7bd350d156aca6dbf5ada2119782964351.png?raw=true"
     },
     {
       "name": "Akamaru",
